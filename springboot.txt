@@ -1,0 +1,11 @@
+springboot 使我们可以快速搭建项目,简化初期的搭建以及开发过程,也就是敏捷开发,创建项目的时候可以直接选择开发所需要的的依赖包,如web,数据库交互的依赖等等,相当于对maven也进行了封装,简化了Maven依赖,借助里面的各种注解,如@controller,@RestController,@service,@Configuration等等可以无需配置文件
+来实现我们所需要的功能,springboot相当于库的集合,有什么需要直接从库里面找就可以,这也是springboot底层对于spring给我们封装好的,也就是spring可以做的事情,springboot也可以做,刚才说的特点是springboot的敏捷开发特性,
+另外因为springboot本身的核心包里面是内置了Servlet容器,所以它可以直接把应用打包成为一个jar/java,然后这个jar/war可以直接启动,不需要另外配置一个Web Server,springboot项目的启动方式有多种方式,如直接放在Web  Server里启动,也可以通过项目自身的sping boot App方式或通过主入口直接启动,这里两个启动方式也是使用了本身内置的Servlet容器进行启动,
+
+sdk-Java-20170725114550
+<dependency>
+            <groupId>com.alipay</groupId>
+            <artifactId>sdk-java</artifactId>
+            <version>20170725114550</version>
+        </dependency>
+
