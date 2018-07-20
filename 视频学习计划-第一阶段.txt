@@ -1,0 +1,58 @@
+IntelliJ IDEA神器使用技巧（2小时）
+https://www.imooc.com/learn/924?mc_marking=08e93dce86b31fecf746c4af010bc34d&mc_channel=syb36
+
+SVN从入门到放弃（3小时17分）
+https://www.imooc.com/learn/845
+
+版本管理工具介绍—Git篇（50分）
+https://www.imooc.com/learn/208
+
+版本控制入门 – 搬进 Github（1小时39分）
+https://www.imooc.com/learn/390
+
+用Jenkins自动化搭建测试环境（1小时21分）
+https://www.imooc.com/learn/1008
+
+
+
+http://www.runoob.com/angularjs/angularjs-tutorial.html
+
+Angular2一小时快速入门（1小时11分）
+https://www.imooc.com/learn/789
+
+Angular-cli基础（1小时7分）
+https://www.imooc.com/learn/851
+
+Angular 4.0从入门到实战 打造股票管理网站（14小时）
+https://coding.imooc.com/class/94.html
+
+Spring Security技术栈开发企业级认证与授权 （19小时）
+https://coding.imooc.com/class/134.html
+
+ZooKeeper分布式专题与Dubbo微服务入门
+https://coding.imooc.com/class/201.html
+
+Spring Cloud微服务实战（14小时30分钟）
+https://coding.imooc.com/class/187.html
+
+vue2.5入门（2小时13分）
+https://www.imooc.com/learn/980
+
+Vue2.5开发去哪儿网App 从零基础入门到实战项目（15小时）
+https://coding.imooc.com/class/203.html
+
+SpringBoot2.0不容错过的新特性 WebFlux响应式编程（6小时30分）
+https://coding.imooc.com/class/209.html
+
+
+
+
+链接:https://pan.baidu.com/s/1TFhuywn_LQJj2QQStUhcyA 密码:b04s
+
+https://pan.baidu.com/s/1cj34NYEvGwPKmz9ryiHv_g 密码:5863
+
+:https://pan.baidu.com/s/1CVmmmfh7ibdNTWdJaX3sCQ 密码:14tp
+
+
+
+ssh://git@39.106.98.111:9001/home/git1601x/demoprj.git
